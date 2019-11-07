@@ -1,0 +1,6 @@
+{
+  "ignore": ["node_modules", ".git", "**/*.test.js", "**/*.spec.js"],
+  "watch": ["src"],
+  "ext": "js",
+  "exec": "node src"
+}
