@@ -1,4 +1,4 @@
-# wikichain
+# template-api
 
 [![Linkedin: https://linkedin.com/in/edixonalberto](https://img.shields.io/badge/author-EdixonAlberto-purple.svg)](https://linkedin.com/in/edixonalberto)
 [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
